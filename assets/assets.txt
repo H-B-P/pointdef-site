@@ -218,7 +218,6 @@ i:button_diagI.png:2269:image/png
 i:a_mine_2.png:728:image/png
 i:abutton_functions.png:2265:image/png
 i:abutton_trim_grey.png:521:image/png
-i:r_but.png:539:image/png
 i:button_r.png:2182:image/png
 i:grid_polar.png:7316:image/png
 i:book_title_trim_matrix.png:371:image/png

@@ -25,6 +25,13 @@
                 evt.stopPropagation();
                 evt.target.style.cursor = '';
               }
+
+window.onkeydown = function (event) {
+    if (event.keyCode === 32) {
+        event.preventDefault();
+    }
+};
+
               document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
               document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
        </script>
