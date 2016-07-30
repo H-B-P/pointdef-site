@@ -8,29 +8,35 @@
   			  <script src="soundmanager2-jsmin.js"></script>
        </head>
 
-       <body>
+       <body onkeydown="preventSpaceScrolling(event);">
               <div align="center" id="embed-html"></div>
               <script type="text/javascript" src="html/html.nocache.js"></script>
        </body>
 
        <script>
               function handleMouseDown(evt) {
-                evt.preventDefault();
+                window.setFocus();
+		evt.preventDefault();
                 evt.stopPropagation();
                 evt.target.style.cursor = 'default';
+		window.setFocus();
               }
 
               function handleMouseUp(evt) {
+		window.setFocus();
                 evt.preventDefault();
                 evt.stopPropagation();
                 evt.target.style.cursor = '';
+		window.setFocus();
               }
 
-window.onkeydown = function (event) {
-    if (event.keyCode === 32) {
-        event.preventDefault();
-    }
-};
+
+		function preventSpaceScrolling(event) {
+            		if (event.keyCode == 32) {
+              		  event.preventDefault();
+            		}
+          	}
+
 
               document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
               document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
