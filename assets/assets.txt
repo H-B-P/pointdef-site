@@ -24,7 +24,13 @@ i:dots/dot_red.png:118:image/png
 i:dots/dot_blue.png:118:image/png
 i:dots/dot_white.png:118:image/png
 i:dots/dot_cyan.png:118:image/png
+i:dots/dot_red_and.png:191:image/png
 i:dots/dot_yellow.png:118:image/png
+i:dots/dot_white_and.png:190:image/png
+i:dots/dot_yellow_and.png:190:image/png
+i:dots/dot_green_and.png:190:image/png
+i:dots/dot_cyan_and.png:190:image/png
+i:dots/dot_blue_and.png:190:image/png
 i:dots/dot_book_yellow.png:118:image/png
 i:abutton_theta.png:1747:image/png
 i:abutton_corner_trim.png:249:image/png
@@ -86,6 +92,7 @@ i:Books/Book_2_ab_1_3.png:1686:image/png
 i:Books/Book_5_Page_1_0.png:16489:image/png
 i:Books/Book_2_Page_4_1.png:14958:image/png
 i:Books/Book_3_Page_0_0.png:8730:image/png
+i:intro_tb_6_and.png:4079:image/png
 i:button_reset_smol.png:717:image/png
 i:button_sca.png:1906:image/png
 i:shield.png:152:image/png
@@ -115,6 +122,7 @@ i:intercept_shield.png:146:image/png
 i:button_switch.png:688:image/png
 i:abutton_trim_boring.png:519:image/png
 i:abutton_lines.png:1661:image/png
+i:sniperdot_and.png:191:image/png
 i:abutton_arbitrary.png:2722:image/png
 i:intro_tb_2.png:4199:image/png
 i:abutton_diagonal.png:2592:image/png
@@ -184,8 +192,10 @@ i:button_scaI.png:2625:image/png
 i:button_instructions_smol.png:1572:image/png
 i:statusbar.png:2104:image/png
 i:Head_2_2.png:710:image/png
+i:intro_tb_4_and.png:3995:image/png
 i:angle_button_blue.png:516:image/png
 i:a_mine.png:638:image/png
+i:intro_tb_3_and.png:5578:image/png
 i:grid_polar_v3.png:9949:image/png
 i:abutton_long_freeplay.png:2143:image/png
 i:abutton_intro.png:1530:image/png
@@ -208,6 +218,7 @@ i:button_menu.png:1523:image/png
 i:campaign_tb_lose.png:2799:image/png
 i:grid_t_halves.png:1996:image/png
 i:contact_block.png:2156:image/png
+i:intro_tb_2_and.png:4574:image/png
 i:abutton_mirror.png:1733:image/png
 i:abutton_long_trim.png:532:image/png
 i:Head_3_2.png:712:image/png
