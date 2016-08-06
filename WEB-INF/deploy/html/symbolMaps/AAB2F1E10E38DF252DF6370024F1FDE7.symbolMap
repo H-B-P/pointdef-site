@@ -16512,7 +16512,7 @@ Sme,com.hbp.pointdef.GameScreen_2::$create_dot_function(Lcom/hbp/pointdef/GameSc
 Tme,com.hbp.pointdef.GameScreen_2::$create_matrix_dot_function(Lcom/hbp/pointdef/GameScreen_2;)V,com.hbp.pointdef.GameScreen_2,$create_matrix_dot_function,com/hbp/pointdef/GameScreen_2.java,851,0
 Ume,com.hbp.pointdef.GameScreen_2::$create_polar_dot_function(Lcom/hbp/pointdef/GameScreen_2;)V,com.hbp.pointdef.GameScreen_2,$create_polar_dot_function,com/hbp/pointdef/GameScreen_2.java,708,0
 Vme,com.hbp.pointdef.GameScreen_2::$create_powers_dot_function(Lcom/hbp/pointdef/GameScreen_2;)V,com.hbp.pointdef.GameScreen_2,$create_powers_dot_function,com/hbp/pointdef/GameScreen_2.java,767,0
-Wme,com.hbp.pointdef.GameScreen_2::$dispose(Lcom/hbp/pointdef/GameScreen_2;)V,com.hbp.pointdef.GameScreen_2,$dispose,com/hbp/pointdef/GameScreen_2.java,2486,0
+Wme,com.hbp.pointdef.GameScreen_2::$dispose(Lcom/hbp/pointdef/GameScreen_2;)V,com.hbp.pointdef.GameScreen_2,$dispose,com/hbp/pointdef/GameScreen_2.java,2490,0
 Xme,com.hbp.pointdef.GameScreen_2::$double_formatted(Lcom/hbp/pointdef/GameScreen_2;D)Ljava/lang/String;,com.hbp.pointdef.GameScreen_2,$double_formatted,com/hbp/pointdef/GameScreen_2.java,1682,0
 Yme,com.hbp.pointdef.GameScreen_2::$double_formatted_2pl(Lcom/hbp/pointdef/GameScreen_2;D)Ljava/lang/String;,com.hbp.pointdef.GameScreen_2,$double_formatted_2pl,com/hbp/pointdef/GameScreen_2.java,1698,0
 Zme,com.hbp.pointdef.GameScreen_2::$double_formatted_prepl(Lcom/hbp/pointdef/GameScreen_2;D)Ljava/lang/String;,com.hbp.pointdef.GameScreen_2,$double_formatted_prepl,com/hbp/pointdef/GameScreen_2.java,1688,0
@@ -16598,7 +16598,7 @@ jb,com.hbp.pointdef.GameScreen_2::game,com.hbp.pointdef.GameScreen_2,game,com/hb
 kb,com.hbp.pointdef.GameScreen_2::grid,com.hbp.pointdef.GameScreen_2,grid,com/hbp/pointdef/GameScreen_2.java,66,-1
 lb,com.hbp.pointdef.GameScreen_2::gridImage,com.hbp.pointdef.GameScreen_2,gridImage,com/hbp/pointdef/GameScreen_2.java,44,-1
 mb,com.hbp.pointdef.GameScreen_2::hellosound,com.hbp.pointdef.GameScreen_2,hellosound,com/hbp/pointdef/GameScreen_2.java,203,-1
-une,com.hbp.pointdef.GameScreen_2::hide()V,com.hbp.pointdef.GameScreen_2,hide,com/hbp/pointdef/GameScreen_2.java,2604,0
+une,com.hbp.pointdef.GameScreen_2::hide()V,com.hbp.pointdef.GameScreen_2,hide,com/hbp/pointdef/GameScreen_2.java,2608,0
 nb,com.hbp.pointdef.GameScreen_2::hit_sound,com.hbp.pointdef.GameScreen_2,hit_sound,com/hbp/pointdef/GameScreen_2.java,196,-1
 ob,com.hbp.pointdef.GameScreen_2::hitship_sound,com.hbp.pointdef.GameScreen_2,hitship_sound,com/hbp/pointdef/GameScreen_2.java,197,-1
 pb,com.hbp.pointdef.GameScreen_2::horz_coefficient,com.hbp.pointdef.GameScreen_2,horz_coefficient,com/hbp/pointdef/GameScreen_2.java,205,-1
@@ -16618,7 +16618,7 @@ Cb,com.hbp.pointdef.GameScreen_2::new_posn_y,com.hbp.pointdef.GameScreen_2,new_p
 Db,com.hbp.pointdef.GameScreen_2::old_argand_a,com.hbp.pointdef.GameScreen_2,old_argand_a,com/hbp/pointdef/GameScreen_2.java,85,-1
 Eb,com.hbp.pointdef.GameScreen_2::old_argand_b,com.hbp.pointdef.GameScreen_2,old_argand_b,com/hbp/pointdef/GameScreen_2.java,86,-1
 Fb,com.hbp.pointdef.GameScreen_2::other_dots,com.hbp.pointdef.GameScreen_2,other_dots,com/hbp/pointdef/GameScreen_2.java,64,-1
-vne,com.hbp.pointdef.GameScreen_2::pause()V,com.hbp.pointdef.GameScreen_2,pause,com/hbp/pointdef/GameScreen_2.java,2592,0
+vne,com.hbp.pointdef.GameScreen_2::pause()V,com.hbp.pointdef.GameScreen_2,pause,com/hbp/pointdef/GameScreen_2.java,2596,0
 Gb,com.hbp.pointdef.GameScreen_2::pause_symbol,com.hbp.pointdef.GameScreen_2,pause_symbol,com/hbp/pointdef/GameScreen_2.java,34,-1
 Hb,com.hbp.pointdef.GameScreen_2::polar_a,com.hbp.pointdef.GameScreen_2,polar_a,com/hbp/pointdef/GameScreen_2.java,88,-1
 Ib,com.hbp.pointdef.GameScreen_2::polar_b,com.hbp.pointdef.GameScreen_2,polar_b,com/hbp/pointdef/GameScreen_2.java,89,-1
@@ -16630,8 +16630,8 @@ Nb,com.hbp.pointdef.GameScreen_2::powers_n,com.hbp.pointdef.GameScreen_2,powers_
 Ob,com.hbp.pointdef.GameScreen_2::prefs,com.hbp.pointdef.GameScreen_2,prefs,com/hbp/pointdef/GameScreen_2.java,103,-1
 Pb,com.hbp.pointdef.GameScreen_2::prefs_score,com.hbp.pointdef.GameScreen_2,prefs_score,com/hbp/pointdef/GameScreen_2.java,80,-1
 wne,com.hbp.pointdef.GameScreen_2::render(F)V,com.hbp.pointdef.GameScreen_2,render,com/hbp/pointdef/GameScreen_2.java,1772,0
-xne,com.hbp.pointdef.GameScreen_2::resize(II)V,com.hbp.pointdef.GameScreen_2,resize,com/hbp/pointdef/GameScreen_2.java,2570,0
-yne,com.hbp.pointdef.GameScreen_2::resume()V,com.hbp.pointdef.GameScreen_2,resume,com/hbp/pointdef/GameScreen_2.java,2598,0
+xne,com.hbp.pointdef.GameScreen_2::resize(II)V,com.hbp.pointdef.GameScreen_2,resize,com/hbp/pointdef/GameScreen_2.java,2574,0
+yne,com.hbp.pointdef.GameScreen_2::resume()V,com.hbp.pointdef.GameScreen_2,resume,com/hbp/pointdef/GameScreen_2.java,2602,0
 Qb,com.hbp.pointdef.GameScreen_2::score,com.hbp.pointdef.GameScreen_2,score,com/hbp/pointdef/GameScreen_2.java,78,-1
 Rb,com.hbp.pointdef.GameScreen_2::seconds,com.hbp.pointdef.GameScreen_2,seconds,com/hbp/pointdef/GameScreen_2.java,105,-1
 Sb,com.hbp.pointdef.GameScreen_2::selectsound,com.hbp.pointdef.GameScreen_2,selectsound,com/hbp/pointdef/GameScreen_2.java,201,-1
@@ -16643,7 +16643,7 @@ Xb,com.hbp.pointdef.GameScreen_2::ship,com.hbp.pointdef.GameScreen_2,ship,com/hb
 Yb,com.hbp.pointdef.GameScreen_2::shipImage,com.hbp.pointdef.GameScreen_2,shipImage,com/hbp/pointdef/GameScreen_2.java,42,-1
 Zb,com.hbp.pointdef.GameScreen_2::shipImages,com.hbp.pointdef.GameScreen_2,shipImages,com/hbp/pointdef/GameScreen_2.java,43,-1
 $b,com.hbp.pointdef.GameScreen_2::shot_sound,com.hbp.pointdef.GameScreen_2,shot_sound,com/hbp/pointdef/GameScreen_2.java,198,-1
-zne,com.hbp.pointdef.GameScreen_2::show()V,com.hbp.pointdef.GameScreen_2,show,com/hbp/pointdef/GameScreen_2.java,2564,0
+zne,com.hbp.pointdef.GameScreen_2::show()V,com.hbp.pointdef.GameScreen_2,show,com/hbp/pointdef/GameScreen_2.java,2568,0
 _b,com.hbp.pointdef.GameScreen_2::show_c_textbox,com.hbp.pointdef.GameScreen_2,show_c_textbox,com/hbp/pointdef/GameScreen_2.java,188,-1
 ac,com.hbp.pointdef.GameScreen_2::show_textbox,com.hbp.pointdef.GameScreen_2,show_textbox,com/hbp/pointdef/GameScreen_2.java,187,-1
 bc,com.hbp.pointdef.GameScreen_2::snippet,com.hbp.pointdef.GameScreen_2,snippet,com/hbp/pointdef/GameScreen_2.java,51,-1
